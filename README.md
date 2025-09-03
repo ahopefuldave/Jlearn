@@ -1,4 +1,4 @@
 # Jlearn
-just learning how to use Github
+just learning to use Github
 
 
