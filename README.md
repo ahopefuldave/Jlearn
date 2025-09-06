@@ -1,6 +1,5 @@
 # Jlearn
 just learning to use Github
 
-the spirit is high
-
+the spirit is 
 
